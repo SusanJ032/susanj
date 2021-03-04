@@ -1,15 +1,13 @@
-<head>
-  <title>My website</title>
-  <meta charset="utf-8">
-  <link rel="stylesheet"
-    href="style.css">
-</head>
+<link rel="stylesheet"
+  href="style.css">
 
-<style>
- body {
-   background-image: url('Background.JPG');
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-size: cover;
- }
- </style>
+
+h1 {
+  font-size: 24px;
+  color: yellow;
+}
+
+
+p {
+  color: Indigo;
+}
