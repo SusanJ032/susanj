@@ -1,13 +1,57 @@
-<link rel="stylesheet"
-  href="style.css">
 
-
+body {
+  background-color: Black;
+}
 h1 {
-  font-size: 24px;
-  color: yellow;
+color: white;
+font-size: 36px;
+}
+
+h3{
+  color: white;
+font-size: 18px;
+}
+
+p{
+  color: white;
+}
+
+ol{color: white;
+text - aligh: center;
+font-size:18px;
+}
+
+ul{color:white;
+text - aligh:center;
+font-size:18px;
 }
 
 
-p {
-  color: Indigo;
+* I'm a CSS comment! */
+
+/*
+Comment blocks
+can span
+multiple lines
+*/
+
+
+body {
+  background-color: grey;
+  color: black;
+}
+
+
+
+
+h2{color:white;
+text - aligh:center;
+font- size: 28px=;
+}
+
+
+p{color:white;
+  font-size: 100%;
+  border: 1px solid white;
+text - aligh:center;
 }
